@@ -17,6 +17,12 @@ This work introduces a falsification-based evaluation framework that directly te
 
 Using synthetic benchmarks, diagnostic analyses, model co-design, and real spatial transcriptomics datasets, the study demonstrates that predictive performance can remain high even when pathway structure is disrupted. These findings highlight important limits of interpretability in structured biological models and establish falsification as a practical evaluation criterion.
 
+## Framework
+
+![Falsification Framework](Figure1_Falsification_Framework.png)
+
+Overview of the falsification framework used to evaluate whether pathway representations genuinely depend on preserved biological structure or instead rely on correlated predictive signals.
+
 ## Scientific Contributions
 
 - Introduces a falsification-driven framework for evaluating interpretability in spatial pathway models.
