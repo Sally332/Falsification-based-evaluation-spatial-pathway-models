@@ -19,7 +19,7 @@ Using synthetic benchmarks, diagnostic analyses, model co-design, and real spati
 
 ## Framework
 
-![Falsification Framework](Figure1_Falsification_Framework.png)
+![Falsification Framework](Figure1_Falsification_Framework.pdf)
 
 Overview of the falsification framework used to evaluate whether pathway representations genuinely depend on preserved biological structure or instead rely on correlated predictive signals.
 
