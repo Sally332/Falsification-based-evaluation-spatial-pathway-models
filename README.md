@@ -9,6 +9,8 @@ A falsification-driven framework for evaluating interpretability and identifiabi
 
 ## Overview
 
+Overview of the falsification framework used to evaluate whether pathway representations genuinely depend on preserved biological structure or instead rely on correlated predictive signals.
+
 Spatial transcriptomics has motivated the development of pathway-based models that aim to provide biologically interpretable representations of gene expression. These models are often evaluated using predictive performance, yet high accuracy does not necessarily imply reliance on the intended biological structure.
 
 This work introduces a falsification-based evaluation framework that directly tests whether model behavior depends on preserved pathway structure and spatial organization. By comparing model performance across controlled perturbations, the framework distinguishes genuine dependence on biological structure from reliance on correlated signals.
