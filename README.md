@@ -95,7 +95,3 @@ Yepes S. (2026). *Falsification-based evaluation reveals limits of interpretabil
 
 DOI: https://doi.org/10.5281/zenodo.19476625
 
-
-## Author
-
-Sally Yepes
